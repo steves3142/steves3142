@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steve
 =============================================================================================================================
 
-* 🌍  I'm based in New Jersey and New York
+* 🌍  I'm based in the New Jersey and NYC area
 * ✉️  You can contact me at [steves3142@gmail.com](mailto:steves3142@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Fintech and Blockchain projects
