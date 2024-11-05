@@ -5,9 +5,9 @@ Web Developer
 -------------
 
 * ✉️  You can contact me at [helixdeveloper1@gmail.com](mailto:helixdeveloper1@gmail.com)
-* 🧠  I'm learning I'm learning NextJS 14
+* 🧠  I'm learning NextJS 15
 * 🤝  I'm open to collaborating on Frontend & Full Stack projects
-* ⚡  Fun fact: I enjoy art and dancing
+* ⚡  Fun fact: I enjoy art and history
 
 ### Skills
 
